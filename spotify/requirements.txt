@@ -1,0 +1,4 @@
+discord.py 
+spotipy 
+pyautogui
+python-dotenv

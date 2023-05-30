@@ -1,0 +1,10 @@
+discord
+python-dotenv
+transformers
+tensorflow
+torch
+langchain
+openai
+faiss-cpu
+requests
+tiktoken
